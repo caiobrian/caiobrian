@@ -1,4 +1,4 @@
-### Olá
+### Olá 
 
 ##### Tecnologias que utilizo
 
@@ -8,6 +8,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
+
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+[<img align="left" alt="Caio Brian | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 <a href="https://github.com/caiobrian">
 <img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
