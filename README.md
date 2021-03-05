@@ -12,7 +12,6 @@
 ### Onde me achar
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiobrian)](https://www.linkedin.com/in/caiobrian)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiogomeslog@gmail.com)](mailto:caiogomeslog@gmail.com)
  
  <a href="https://github.com/caiobrian">
