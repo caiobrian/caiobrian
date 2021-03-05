@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/caiobrian/caiobrian.svg)](http://hits.dwyl.com/caiobrian/caiobrian)
+
+
 <!--
 **caiobrian/caiobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
