@@ -10,7 +10,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
 ### Me encontre no LinkedIn: 
-[<img align="left" alt="Caio Brian | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Caio Brian" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 <a href="https://github.com/caiobrian">
 <img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
