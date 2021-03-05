@@ -15,10 +15,6 @@
 <a href="https://github.com/caiobrian">
 <img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/caiobrian">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=caiobrian&layout=compact&theme=radical" />
-</a>
-
 <!--
 **caiobrian/caiobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
