@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled Components-000000?style=flat&logo=styled-components)
+![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
 
 <!--
