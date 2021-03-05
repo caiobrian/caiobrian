@@ -16,6 +16,11 @@
   </a>
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiogomeslog@gmail.com)](mailto:caiogomeslog@gmail.com)
+ 
+
 <p align=”center>
   <a href="https://www.linkedin.com/in/caiobrian">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white"/> 
