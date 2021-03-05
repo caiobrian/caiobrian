@@ -2,6 +2,12 @@
 
 [![HitCount](http://hits.dwyl.com/caiobrian/caiobrian.svg)](http://hits.dwyl.com/caiobrian/caiobrian)
 
+##### Languages I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
 
 <!--
 **caiobrian/caiobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
