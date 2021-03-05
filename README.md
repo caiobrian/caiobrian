@@ -10,7 +10,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
 <a href="https://www.linkedin.com/in/caiobrian">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/> 
 </a>
 
  <a href="https://github.com/caiobrian">
