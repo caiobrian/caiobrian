@@ -18,7 +18,7 @@
 
 <p align=”center>
   <a href="https://www.linkedin.com/in/caiobrian">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"/> 
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white"/> 
   </a>
 </p>
 
