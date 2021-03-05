@@ -9,8 +9,9 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
-
+<a href="https://www.linkedin.com/in/caiobrian">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+</a>
 
  <a href="https://github.com/caiobrian">
 <img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
