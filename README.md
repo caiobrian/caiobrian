@@ -9,9 +9,16 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
+### Onde me achar
 <p align=”center>
   <a href="https://www.linkedin.com/in/caiobrian">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/> 
+  </a>
+</p>
+
+<p align=”center>
+  <a href="https://www.linkedin.com/in/caiobrian">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=blue"/> 
   </a>
 </p>
 
