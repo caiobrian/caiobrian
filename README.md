@@ -10,24 +10,11 @@
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
 ### Onde me achar
-<p align=”center>
-  <a href="https://www.linkedin.com/in/caiobrian">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/> 
-  </a>
-</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiobrian)](https://www.linkedin.com/in/caiobrian)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiogomeslog@gmail.com)](mailto:caiogomeslog@gmail.com)
  
-
-<p align=”center>
-  <a href="https://www.linkedin.com/in/caiobrian">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white"/> 
-  </a>
-</p>
-
-
  <a href="https://github.com/caiobrian">
 <img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
