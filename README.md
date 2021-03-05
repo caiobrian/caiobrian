@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled-000000?style=flat&logo=styled-components)
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Me encontre no LinkedIn: 
 [<img align="left" alt="Caio Brian | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 <a href="https://github.com/caiobrian">
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://www.linkedin.com/in/caiobrian
