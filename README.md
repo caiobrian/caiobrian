@@ -14,5 +14,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiobrian)](https://www.linkedin.com/in/caiobrian)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiogomeslog@gmail.com)](mailto:caiogomeslog@gmail.com)
  
- <a href="https://github.com/caiobrian">
-<img align="center" alt="caiobrian Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiobrian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
