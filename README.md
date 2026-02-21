@@ -34,19 +34,6 @@ Sou um **Desenvolvedor Full Stack** com forte foco em Front End, apaixonado por 
 [![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)](https://www.docker.com/)
 [![OpenAI](https://img.shields.io/badge/-OpenAI_API-000000?style=flat&logo=openai)](https://openai.com/)
 
----
-
-### 🛠️ Projetos em destaque
-
-- 🗳️ **[polls](https://github.com/caiobrian/polls)** — API de votações em tempo real com Node.js, Fastify e WebSockets
-- 💼 **[clareza](https://github.com/caiobrian/clareza)** — App de produtividade full stack (GTD + Eisenhower) com React 19, NestJS, Prisma e Nx Monorepo
-- 🛍️ **[teetrend](https://github.com/caiobrian/teetrend)** — E-commerce de camisetas com Next.js, TypeScript, Tailwind CSS e integração com ViaCEP
-- 🔍 **[GithubFinder](https://github.com/caiobrian/GithubFinder)** — Buscador de perfis do GitHub com TypeScript e React
-- ⚡ **[fast-todo](https://github.com/caiobrian/fast-todo)** — API de tarefas com FastAPI e Python
-- 💰 **[fintech](https://github.com/caiobrian/fintech)** — Interface de aplicação fintech
-
----
-
 ### 📫 Onde me achar
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiobrian)](https://www.linkedin.com/in/caiobrian)
